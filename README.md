@@ -28,7 +28,7 @@ Mechanical Engineering & Computer Science student at the University of Pittsburg
 #### 🧠 Deep Learning Projects
 - **Description**: Implementation of various deep learning algorithms and applications
 - **Technologies**: Python, TensorFlow/PyTorch, Neural Networks
-- **Repo**: [GitHub Repository](https://github.com/username/deep-learning)
+- **Code Samples**: Assignment4Food_MobileNet (2).ipynb, and Assigment1_DL (3).ipynb
 
 ### Space Technology
 #### 🚀 Material Decay Analysis
