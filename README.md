@@ -14,7 +14,7 @@ Mechanical Engineering & Computer Science student at the University of Pittsburg
 #### 🤖 Autonomous Mobile Robots
 - **Description**: Projects from autonomous robotic navigation course
 - **Technologies**: ROS, Python, Sensor Integration
-- **Repo**: [GitHub Repository](https://github.com/eden-byte/Projects/autonomous-robots)
+- **Code Sample**: src 
 
 #### 🐍 MedSnake Surgical Robot
 - **Description**: Contributed to robust steering models for a surgical snake robot at CMU Robotics Institute
